@@ -1,0 +1,3 @@
+[submodule "MoYuScript"]
+	path = MoYuScript
+	url = git@github.com:YFsama/MoYuScript.git
